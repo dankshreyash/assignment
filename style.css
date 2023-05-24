@@ -1,0 +1,121 @@
+body {
+    margin: 1.5%;
+}
+
+
+.logo {
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    height: 60px;
+}
+
+.navbar {
+    background-color: white;
+    padding: 20px;
+}
+
+/* Style the navbar links */
+.navbar a {
+    color: black;
+    text-decoration: none;
+    margin-left: 110px;
+
+}
+
+.intro-image {
+    width: 100%;
+    margin-right: 30px;
+}
+
+.welcome-msg {
+    text-align: center;
+}
+
+.slider {
+
+    height: 20rem;
+    width: 20rem;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+}
+
+.text {
+    width: 60%;
+    font-size: 1.5rem;
+}
+
+.rectangle {
+    width: 100px;
+    height: 50px;
+    border: 1px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 550px;
+    ;
+}
+
+.section3 {
+    text-align: center;
+
+}
+
+.line {
+    width: 48px;
+    height: 2px;
+    background-color: #000;
+
+}
+
+.circular-images {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 155px;
+
+}
+
+.section4 {
+    text-align: center;
+
+}
+
+.paragraph {
+    margin-left: 60px;
+}
+
+.footer-img {
+    height: 1%;
+    width: 1.2%;
+    margin-left: 155px;
+    margin-top: 10px;
+
+}
+
+/* .footer{
+    margin-right: 300px;
+}
+.footer-info {
+    margin-left: 10px;
+  }
+  .footer-right{
+    margin-right: 90px;
+  } */
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+}
